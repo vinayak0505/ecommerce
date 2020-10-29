@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="pref_user_label">Select you are seller or buyer</string>
+    <string name="pref_user_key">user</string>
+    <string name="pref_user_label_seller">Seller</string>
+    <string name="pref_user_label_buyer">Buyer</string>
+    <string name="backgroundImage">backgroundImage</string>
+    <string name="login_now"><b><i>Login now</i></b></string>
+    <string name="create_account"><b><u><i>Create account</i></u></b></string>
+    <string name="sign_up"><b><i>SIGN UP</i></b></string>
+    <string name="connect_with_us"><b><i>connect with us</i></b></string>
+
+</resources>

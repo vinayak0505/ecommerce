@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="editText">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColorHint">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="textStartPadding">8dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>

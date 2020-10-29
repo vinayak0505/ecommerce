@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_user_option_labels">
+        <item>@string/pref_user_label_seller</item>
+        <item>@string/pref_user_label_buyer</item>
+    </array>
+</resources>
